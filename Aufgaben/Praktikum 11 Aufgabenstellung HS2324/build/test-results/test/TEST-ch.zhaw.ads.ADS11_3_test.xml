@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS11_3_test" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-04T07:57:22" hostname="DESKTOP-HAFPO39" time="6.477">
+  <properties/>
+  <testcase name="testSelectionSort()" classname="ch.zhaw.ads.ADS11_3_test" time="0.054"/>
+  <testcase name="testRandomData()" classname="ch.zhaw.ads.ADS11_3_test" time="0.002"/>
+  <testcase name="testBubbleSort()" classname="ch.zhaw.ads.ADS11_3_test" time="0.199"/>
+  <testcase name="testAscendingData()" classname="ch.zhaw.ads.ADS11_3_test" time="0.001"/>
+  <testcase name="testDescendingData()" classname="ch.zhaw.ads.ADS11_3_test" time="0.001"/>
+  <testcase name="testInsertionSort()" classname="ch.zhaw.ads.ADS11_3_test" time="0.016"/>
+  <testcase name="testMeasureTime()" classname="ch.zhaw.ads.ADS11_3_test" time="6.199"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
