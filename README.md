@@ -1,2 +1,2 @@
 # Algorithmen-und-Datenstrukturen
-Übungsaufgaben in java des Moduls Algorithmen und Datenstrukturen
+Übungsaufgaben in Java des Moduls Algorithmen und Datenstrukturen

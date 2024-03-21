@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS10_3_test" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-11-27T13:48:32" hostname="DESKTOP-HAFPO39" time="0.076">
+  <properties/>
+  <testcase name="testFind()" classname="ch.zhaw.ads.ADS10_3_test" time="0.059"/>
+  <testcase name="testTrigramForName()" classname="ch.zhaw.ads.ADS10_3_test" time="0.007"/>
+  <testcase name="testAddToTrigrams()" classname="ch.zhaw.ads.ADS10_3_test" time="0.003"/>
+  <testcase name="testLoadNames()" classname="ch.zhaw.ads.ADS10_3_test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
