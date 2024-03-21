@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS4_2_test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-10-10T11:35:32" hostname="DESKTOP-HAFPO39" time="0.031">
+  <properties/>
+  <testcase name="testCountEdges()" classname="ch.zhaw.ads.ADS4_2_test" time="0.019"/>
+  <testcase name="testAngles()" classname="ch.zhaw.ads.ADS4_2_test" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
